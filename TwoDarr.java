@@ -1,5 +1,5 @@
 import java.util.*;
-/* 
+/*
 public class TwoDarr {
     // take amatrix and print its element
 
@@ -31,7 +31,7 @@ public class TwoDarr {
 
     
 }
-
+*/
 public class TwoDarr{
     // Searching for an element x in a matrix.
 
@@ -66,8 +66,8 @@ public class TwoDarr{
 
 }   
     
-*/
 
+/*
 import java.util.*;
 
 
@@ -128,5 +128,5 @@ public class Arrays {
    }
 }
 
-
+*/
 
