@@ -1,5 +1,7 @@
 import java.util.*;
 /* 
+
+//spiral matrix
 public class spiral{
     public static void main(String[] args) {
         Scanner sc =new Scanner(System.in);
@@ -49,7 +51,7 @@ public class spiral{
 }
     */
 public class spiral {
-
+//transpose matrix (convert column into rows and rows into columns)
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter number of rows");
